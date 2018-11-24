@@ -1,6 +1,8 @@
+; Changed the background to solid black instead of being transparent
+; Way easier to see the calendar now
 [Rainmeter]
 BackgroundMode=2
-SolidColor=0,0,0,1
+SolidColor=0,0,0,255
 MouseOverAction=[!ShowMeterGroup Controls][!Redraw]
 MouseLeaveAction=[!HideMeterGroup Controls][!Redraw]
 
